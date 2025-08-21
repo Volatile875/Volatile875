@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Volatile875
+- 👋 Hi, I’m Pratik Thakur, 
 - 👀 I’m interested in doing something which makes the life more easier.
 - 🌱 I’m currently learning Machine learning, Data Science, DSA
 - 💞️ I’m looking to collaborate on linkedin:https://www.linkedin.com/in/pratik-thakur-481a38268/
